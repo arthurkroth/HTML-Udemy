@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+h1, h2 {
+    color: green;
+}
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+}
+.maintext {
+    text-align: justify;
+    padding: 10px;
+    text-indent: 20px;
+}
+#author{
+    font-size: 22px;
+}
+a.hoover {
+    
+}
+.medium{
+    width: 400px;
+    height: 250px;
+}
